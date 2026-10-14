@@ -7,11 +7,9 @@ Repositorio de algoritmos implementados en C# para practicar lógica de programa
 ### Arreglos (Arrays)
 - [x] Selection Sort
 - [x] Insertion Sort
-
-### Próximamente
-- [ ] Bubble Sort
-- [ ] Búsqueda lineal
-- [ ] Búsqueda binaria
+- [x] Bubble Sort
+- [x] Búsqueda lineal
+- [x] Búsqueda binaria
 
 ## Tecnologías
 - C#
