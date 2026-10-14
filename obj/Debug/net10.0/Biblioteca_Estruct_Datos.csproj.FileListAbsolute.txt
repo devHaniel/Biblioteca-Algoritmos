@@ -1,0 +1,14 @@
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/bin/Debug/net10.0/Biblioteca_Estruct_Datos
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/bin/Debug/net10.0/Biblioteca_Estruct_Datos.deps.json
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/bin/Debug/net10.0/Biblioteca_Estruct_Datos.runtimeconfig.json
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/bin/Debug/net10.0/Biblioteca_Estruct_Datos.dll
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/bin/Debug/net10.0/Biblioteca_Estruct_Datos.pdb
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.AssemblyInfoInputs.cache
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.AssemblyInfo.cs
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.csproj.CoreCompileInputs.cache
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.dll
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/refint/Biblioteca_Estruct_Datos.dll
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.pdb
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/Biblioteca_Estruct_Datos.genruntimeconfig.cache
+/Users/han/Documents/CSHARP/Fase 1/Biblioteca_Estruct_Datos/obj/Debug/net10.0/ref/Biblioteca_Estruct_Datos.dll
